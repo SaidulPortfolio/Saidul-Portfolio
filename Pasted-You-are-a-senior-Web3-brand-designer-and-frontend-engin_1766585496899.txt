@@ -1,0 +1,118 @@
+You are a senior Web3 brand designer and frontend engineer.
+
+Goal:
+Create a highly professional, eye-catching, modern, one-page personal portfolio website for a Crypto Community Manager / Telegram Moderator.
+
+This site must feel:
+- Premium
+- Trustworthy (important for crypto)
+- Unique (not template-looking)
+- Slightly futuristic but clean
+- Built for recruiters & founders
+
+Target audience:
+- Crypto founders
+- Web3 startups
+- DAO teams
+- Blockchain projects
+
+Design Direction:
+- Dark-first design with soft neon accents (blue/purple/cyan)
+- Glassmorphism cards (subtle blur, transparency)
+- Smooth micro-animations (hover, fade-in on scroll)
+- Clean typography (modern sans-serif)
+- Strong visual hierarchy
+- Fully mobile responsive
+- One-page scroll with sections snapping smoothly
+
+NO frameworks. NO Tailwind. NO Bootstrap.  
+Use ONLY:
+- HTML
+- CSS
+- Vanilla JavaScript
+
+File structure:
+- index.html
+- style.css
+- script.js
+
+────────────────────────
+CONTENT REQUIREMENTS
+────────────────────────
+
+1) HERO SECTION
+- Name: Saiyadul Alam Saddo
+- Title: Crypto Community Manager | Telegram Moderator
+- Location: Bangladesh (remote-friendly)
+- Short bold tagline:
+  “I help crypto projects build safe, active, and trusted communities.”
+- CTA buttons:
+  - “Hire Me” (scroll to contact)
+  - “Telegram” (external link)
+- Add subtle animated background (gradient or particles made with CSS)
+
+2) ABOUT SECTION
+Write in a confident but honest tone:
+
+“I’m a motivated crypto community manager with hands-on experience moderating Telegram communities, preventing scams, and keeping members engaged. I specialize in maintaining order, protecting users, and supporting project growth through clear communication. I’m seeking a remote, part-time role (3–4 hours daily).”
+
+3) SKILLS SECTION
+Display as premium cards with icons or symbols:
+
+- Telegram & Discord Moderation
+- Spam, Scam & Phishing Prevention
+- Community Engagement & Growth
+- Announcement Writing
+- User Support & Conflict Resolution
+- Basic Bot Handling & Rules Enforcement
+
+4) EXPERIENCE SECTION
+(No fake companies. No lies.)
+
+Use bullet points:
+- Moderated active crypto Telegram communities
+- Removed scam links, fake admins, and bot attacks
+- Guided users using pinned messages and official links
+- Maintained a positive, respectful chat environment
+
+5) AVAILABILITY & LANGUAGES
+Present in a clean grid:
+
+Availability:
+- Part-time (3–4 hours daily)
+- Flexible with global time zones
+
+Languages:
+- Bangla — Native
+- English — Basic to Intermediate (chat-focused)
+- Hindi — Basic
+- Urdu — Basic
+
+6) CONTACT SECTION
+Strong call-to-action:
+“Let’s secure and grow your community.”
+
+Include clickable:
+- Email: xysaddo@gmail.com
+- Telegram: @Xyman15
+- X (Twitter): @XY_Saddo
+
+────────────────────────
+TECHNICAL REQUIREMENTS
+────────────────────────
+
+- SEO-friendly HTML structure
+- Smooth scrolling
+- Scroll-triggered animations using JavaScript
+- Hover animations on buttons and cards
+- High contrast for readability
+- Commented, clean, production-ready code
+- Must run instantly inside Replit without errors
+
+After building:
+- Review layout consistency
+- Improve spacing & typography
+- Polish colors and animation timing
+- Ensure it looks premium, not beginner
+
+Deliver a finished, deploy-ready website.
